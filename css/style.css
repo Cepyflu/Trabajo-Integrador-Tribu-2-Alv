@@ -1,0 +1,68 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(226, 43, 189);
+}
+.contenedor{
+    background-color: rgb(226, 43, 189);
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-style: oblique;
+
+}
+
+a{
+    font-weight: 700;
+    text-decoration: none;
+    color: aliceblue;
+    margin-left: 120px;
+}
+#caja1{
+    display: flex;
+    justify-content: center;
+}
+#ulmonte{
+    display: flex;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px solid;
+    margin: 30px;
+    padding: 2px;
+    background-color: bisque;
+    
+}
+h2{
+    text-align: center;
+}
+#olmonte{
+    display: flex;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px solid;
+    margin: 30px;
+    padding: 2px;
+    background-color: bisque;
+}
+p{
+    font-size: x-large;
+    margin: 20px;
+    color: rgb(240, 228, 228);
+}
+h3{
+    text-align: center;
+    border: 1px solid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
